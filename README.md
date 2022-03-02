@@ -33,25 +33,24 @@
 
 ### 🍯 Technical Stack
 
-- 💰 Blockchain 𒑰 DeFi 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js 𒑰 Ethers.js
-- ⚡ JavaScript 𒑰 Typescript 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 C++ 𒑰 C# 𒑰 Tailwind CSS
-- 🥇 React 𒑰 Material UI 𒑰 Ant Design 𒑰 Chakra UI 𒑰 Semantic UI 𒑰 Fuse React 𒑰 Figma 𒑰 Adob XD 𒑰 Adobe Photoshop
-- 🎒 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO 𒑰 Django 𒑰 Java Spring Boot
+- 💰 Blockchain • Solidity • Web3.js • Ethers.js
+- ⚡ JavaScript • HTML • CSS • Bootstrap • C++ 
+- 🥇 React • Material UI 
+- 🎒 Django • Java Spring Boot
 - 🏹 Chrome extension with React & Redux
-- 🌎 AWS 𒑰 Firebase 𒑰 MongoDB 𒑰 MariaDB 𒑰 Git 𒑰 Slack 𒑰 Jira
-- 🚩 Docker 𒑰 Jenkins 𒑰 Jetbrain Tools 𒑰 CI/CD 𒑰 Test-Driven Development(TDD)
-
+- 🌎 AWS • Firebase • MongoDB • Git
+- 🚩 Docker • Jenkins • Jetbrain Tools • CI/CD • Test-Driven Development(TDD)
+<!--
 ### 🚧 Current Projects
 - 🤑 Multi-DEX & Payment Integration
 - 🔗 Third Party API Integration
 - 🎨 React 𒑰 Material UI 𒑰 Fuse React 𒑰 Semantic UI 𒑰 Styled Component 𒑰 Next 𒑰 Gatsby
 - 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
-
+-->
 ### 🌱 What I'm boosting
-- 🛠 AWS Cloud Serivces 𒑰 Serverless 𒑰 Terraform
-- 🎩 DevOps
+- 🛠 AWS Cloud Serivices • Serverless 
 
-`Reach out to me to talk about possible opportunities, mentorship, collaborations and everything in between!`
+`Reach out to me to talk about possible opportunities, collaborations and everything in between!`
 
 
 <!-- <h3 align="left">🛎 Connect with me:</h3>
