@@ -1,8 +1,5 @@
 # Thanks for visiting my Git! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" styles="float: left;" width="40px">
-<a href="https://www.thomaspellegrini.com/#/" styles="font-size: 25px; color: white;">My Portfolio Site</a>
-<a target="blank" href="https://profile-counter.glitch.me/ThomasPellegrini/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/ThomasPellegrini/count.svg" /></a>
 
----
  
 ## 🤗 Welcome
 
