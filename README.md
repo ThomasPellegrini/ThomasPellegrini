@@ -16,7 +16,7 @@
 ### 🍯 Technical Stack
 
 - ⚡ Python • Java • JavaScript • PySpark 
-- 🥇 React • Material UI 
+- 🥇 React • React Native
 - 🎒 Django • Java Spring Boot
 - 🏹 Chrome extension with React & Redux
 - 🌎 AWS • Firebase • MongoDB • Git
