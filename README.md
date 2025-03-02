@@ -14,7 +14,7 @@ I’ve loved computers and technology for as long as I can remember. Ever since 
 ### 🍯 Technical Stack
 
 - NextJS • NestJS
-- TypeScript • Python 
+- TypeScript • Python • PySpark
 - AWS
 - MySQL • PostgreSQL
 - Docker • Jenkins • CI/CD
