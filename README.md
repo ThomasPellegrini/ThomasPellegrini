@@ -16,7 +16,7 @@ I’ve loved computers and technology for as long as I can remember. Ever since 
 - NextJS • NestJS
 - TypeScript • Python • PySpark
 - AWS
-- MySQL • PostgreSQL
+- MySQL • PostgreSQL • Prisma • GraphQL
 - Docker • Jenkins • CI/CD
 <!--
 ### 🚧 Current Projects
