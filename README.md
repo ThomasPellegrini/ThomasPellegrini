@@ -3,34 +3,30 @@
 
 ## 🙋‍♂️ About Me
 
-<p>
-  <img align="right" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 
-&nbsp;&nbsp;From the moment I produced "Hello World" in the console of my application, I knew I was hooked into the world of software development.
-<br>
-&nbsp;&nbsp;But software development has never been "just a job" for me, it's offered an engaging challenge to continually learn and improve my skills in creating high-quality software.<br>
-&nbsp;&nbsp;What started with a simple "Hello World" has become a full-fledged passion that only gets more exciting as the years go by.<br>
+<img align="right" width="300" src="https://github.com/user-attachments/assets/9758d599-d980-4f7f-ade4-3de55aabe0b6" />
 
-</p>
+I’ve loved computers and technology for as long as I can remember. Ever since I was a kid, I’ve been fascinated by how they work and what they can do—this passion eventually led me to become a developer.
+
+
+
 
 ### 🍯 Technical Stack
 
-- ⚡ Python • Java • JavaScript • PySpark 
-- 🥇 React • React Native
-- 🎒 Django • Java Spring Boot
-- 🏹 Chrome extension with React & Redux
-- 🌎 AWS • Firebase • MongoDB • Git
-- 🚩 Docker • Jenkins • Jetbrain Tools • CI/CD • Test-Driven Development(TDD)
-- 💰 Blockchain • Solidity • Web3.js • Ethers.js
+- NextJS • NestJS
+- TypeScript • Python 
+- AWS
+- MySQL • PostgreSQL
+- Docker • Jenkins • CI/CD
 <!--
 ### 🚧 Current Projects
 - 🤑 Multi-DEX & Payment Integration
 - 🔗 Third Party API Integration
 - 🎨 React 𒑰 Material UI 𒑰 Fuse React 𒑰 Semantic UI 𒑰 Styled Component 𒑰 Next 𒑰 Gatsby
 - 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
--->
 ### 🌱 What I'm boosting
-- 🛠 AWS Cloud Serivices • Serverless 
+- 🛠 AWS Cloud Services • Serverless 
+-->
 
 `Reach out to me to talk about possible opportunities, collaborations and everything in between!`
 
