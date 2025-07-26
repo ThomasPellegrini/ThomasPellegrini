@@ -13,11 +13,11 @@ I’ve loved computers and technology for as long as I can remember. Ever since 
 
 ### 🍯 Technical Stack
 
-- NextJS • NestJS
+- React • NodeJS
 - TypeScript • Python • PySpark
 - AWS
-- MySQL • PostgreSQL • Prisma • GraphQL
-- Docker • Jenkins • CI/CD
+- MySQL • PostgreSQL • Prisma • GraphQL 
+- Docker
 <!--
 ### 🚧 Current Projects
 - 🤑 Multi-DEX & Payment Integration
@@ -28,7 +28,6 @@ I’ve loved computers and technology for as long as I can remember. Ever since 
 - 🛠 AWS Cloud Services • Serverless 
 -->
 
-`Reach out to me to talk about possible opportunities, collaborations and everything in between!`
 
 
 <!-- <h3 align="left">🛎 Connect with me:</h3>
