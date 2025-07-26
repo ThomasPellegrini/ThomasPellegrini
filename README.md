@@ -1,4 +1,4 @@
-# Thanks for visiting my Git! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" styles="float: left;" width="40px">
+# Thanks for visiting my Git! 
 
 
 ## 🙋‍♂️ About Me
