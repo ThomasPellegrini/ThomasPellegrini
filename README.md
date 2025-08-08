@@ -1,5 +1,3 @@
-# Thanks for visiting my Git! 
-
 
 ## 🙋‍♂️ About Me
 
