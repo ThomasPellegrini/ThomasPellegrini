@@ -9,13 +9,7 @@ I’ve loved computers and technology for as long as I can remember. Ever since 
 
 
 
-### 🍯 Technical Stack
 
-- React • NodeJS
-- TypeScript • Python • PySpark
-- AWS
-- MySQL • PostgreSQL • Prisma • GraphQL 
-- Docker
 <!--
 ### 🚧 Current Projects
 - 🤑 Multi-DEX & Payment Integration
